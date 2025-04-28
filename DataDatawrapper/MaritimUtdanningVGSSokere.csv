@@ -1,2 +1,36 @@
-[DS0IntersectionCount],[DS0PrimaryCount],[DS0TargetPrimaryCount],[DS0SecondaryCount],[DS0TargetSecondaryCount],[DS0KeyPrimaryLimitedCount],[DS0KeyPrimaryLimit]
-40,8,3500,5,3500,1,1
+Dim_date[Year],Dim_Videregående_Typeutdanning[Studieprogram_navn_kort],[Elevtall_og_lærekontrakter]
+2018,Maritim EL-fag (Vg3 bedrift),4
+2018,Maritim EL-fag (Vg3 skole),77
+2018,Maritime fag,614
+2018,Matrosfaget,653
+2018,Skipsmotormekanikerfaget,429
+2019,Maritim EL-fag (Vg3 bedrift),68
+2019,Maritim EL-fag (Vg3 skole),64
+2019,Maritime fag,547
+2019,Matrosfaget,661
+2019,Skipsmotormekanikerfaget,436
+2020,Maritim EL-fag (Vg3 bedrift),129
+2020,Maritim EL-fag (Vg3 skole),77
+2020,Maritime fag,597
+2020,Matrosfaget,705
+2020,Skipsmotormekanikerfaget,415
+2021,Maritim EL-fag (Vg3 bedrift),136
+2021,Maritim EL-fag (Vg3 skole),73
+2021,Maritime fag,674
+2021,Matrosfaget,745
+2021,Skipsmotormekanikerfaget,430
+2022,Maritim EL-fag (Vg3 bedrift),135
+2022,Maritim EL-fag (Vg3 skole),73
+2022,Maritime fag,706
+2022,Matrosfaget,810
+2022,Skipsmotormekanikerfaget,492
+2023,Maritim EL-fag (Vg3 bedrift),140
+2023,Maritim EL-fag (Vg3 skole),83
+2023,Maritime fag,798
+2023,Matrosfaget,856
+2023,Skipsmotormekanikerfaget,530
+2024,Maritim EL-fag (Vg3 bedrift),151
+2024,Maritim EL-fag (Vg3 skole),93
+2024,Maritime fag,867
+2024,Matrosfaget,975
+2024,Skipsmotormekanikerfaget,555
