@@ -1,5 +1,5 @@
-Dim_date[Year],[Antall_i_kullet__H_],[Antall_studenter__Etter_3_år_],[Antall_studenter__Etter_4_år_],[Antall_studenter__Etter_5_år_],[Antall_etter_3_år_i__],[Antall_studenter__Etter_4_år____Antall_i_kullet],[Antall_studenter__Etter_5_år____Antall_i_kullet]
-2018,186,89,107,109,47.8%,107 / 57.5%,109 / 58.6%
-2019,173,97,117,119,56.1%,117 / 67.6%,119 / 68.8%
-2020,204,105,123,0,51.5%,123 / 60.3%,
-2021,201,121,0,0,60.2%,,
+Dim_date[Year],[Antall_i_kullet__H_],[Antall_studenter__Etter_3_år_],[Antall_studenter__Etter_4_år_],[Antall_studenter__Etter_5_år_],[Antall_etter_3_år_i__]
+2018,186,89,107,109,47.8%
+2019,173,97,117,119,56.1%
+2020,204,105,123,0,51.5%
+2021,201,121,0,0,60.2%
