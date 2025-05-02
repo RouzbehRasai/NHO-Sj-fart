@@ -1,5 +1,5 @@
-Dim_HøyereUtdanning_Typeutdanning[Studieprogram_navn_kort],[Elevtall 2018],[Plasser 2018],[Elevtall 2019],[Plasser 2019],[Elevtall 2020],[Plasser 2020],[Elevtall 2021],[Plasser 2021],[Elevtall 2022],[Plasser 2022],[Elevtall 2023],[Plasser 2023],[Elevtall 2024],[Plasser 2024]
-Marinteknisk drift,28,25,27,25,38,30,26,20,23,20,45,28,37,28
-Nautikk,159,140,165,157,159,152,191,130,105,92,117,94,102,94
-Nautikk – Integrert praksis,,,,,,,,,38,38,34,38,55,38
-Nautikk - Y-vei,10,,0,,0,,0,,0,,0,,11,
+Dim_HøyereUtdanning_Typeutdanning[Studieprogram_navn_kort],[Elevtall 2018],[Elevtall 2019],[Elevtall 2020],[Elevtall 2021],[Elevtall 2022],[Elevtall 2023],[Elevtall 2024]
+Marinteknisk drift,28,27,38,26,23,45,37
+Nautikk,159,165,159,191,105,117,102
+Nautikk – Integrert praksis,,,,,38,34,55
+Nautikk - Y-vei,10,0,0,0,0,0,11
