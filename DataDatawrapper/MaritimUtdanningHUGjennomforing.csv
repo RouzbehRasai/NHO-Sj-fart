@@ -1,5 +1,5 @@
-Dim_date[Year],[Antall_i_kullet__H_],[Antall_studenter__Etter_3_år_],[Antall_studenter__Etter_4_år_],[Antall_studenter__Etter_5_år_]
-2018,186,89,107,109
-2019,173,97,117,119
-2020,204,105,123,0
-2021,201,121,0,0
+Dim_HøyereUtdanning_Typeutdanning[Studieprogram_navn_kort],[Elevtall 2018],[Plasser 2018],[Elevtall 2019],[Plasser 2019],[Elevtall 2020],[Plasser 2020],[Elevtall 2021],[Plasser 2021],[Elevtall 2022],[Plasser 2022],[Elevtall 2023],[Plasser 2023],[Elevtall 2024],[Plasser 2024]
+Marinteknisk drift,28,25,27,25,38,30,26,20,23,20,45,28,37,28
+Nautikk,159,140,165,157,159,152,191,130,105,92,117,94,102,94
+Nautikk – Integrert praksis,,,,,,,,,38,38,34,38,55,38
+Nautikk - Y-vei,10,,0,,0,,0,,0,,0,,11,
