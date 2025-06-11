@@ -1,9 +1,9 @@
-fak_sjsert_sertifikater[Alder (grupper)],[IsGrandTotalColumnTotal]
-16-19,False
-20-29,False
-30-39,False
-40-49,False
-50-59,False
-60-69,False
-Over 70,False
+fak_sjsert_sertifikater[Personlig sertifikat type (grupper)],[IsGrandTotalColumnTotal]
+Annet,False
+Dekksoffiser,False
+Fiskeskipper,False
+Kystskipper,False
+Maskinoffiser,False
+Skipselektriker,False
+Underordnet mannskap,False
 ,True
