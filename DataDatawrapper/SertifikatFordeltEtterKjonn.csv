@@ -1,7 +1,7 @@
-[SertifikatType],[Mann],[Kvinne]
-Dekksoffiser,21801,787
-Fiskeskipper,2015,15
-Kystskipper,312,
-Maskinoffiser,12260,163
-Skipselektriker,3438,46
-Underordnet mannskap,8608,460
+[SertifikatType],[Mann],[Kvinne],[Ikke_oppgitt]
+Dekksoffiser,21801,787,
+Fiskeskipper,2015,15,
+Kystskipper,312,,
+Maskinoffiser,12260,163,
+Skipselektriker,3438,46,31
+Underordnet mannskap,8608,460,3
